@@ -1,10 +1,4 @@
-# AngularStart
-
-STEPS TO FOLLOW TO CREATE ANGULAR PROJECT
-
-https://github.com/yoanastamenova/Angular_Start.git
-
-# STEPS TO FOLLOW WHEN WORKING WITH REACT 
+# STEPS TO FOLLOW WHEN WORKING WITH ANGULAR 
 
 <div align="center">
 <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
