@@ -48,6 +48,8 @@ With the CLI:
 
 8. Write in the terminal
 ``` ng generate component component-name ```
+or the shorter version
+``` ng g c component-name ```
 
 This will generate the following structure inside the src/app folder:
 
