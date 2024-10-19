@@ -101,12 +101,14 @@ export class TitleComponent {
 
 Via creating files
 
-11. Create one file for the component logic
+11. In src create a new folder with the name of the component
+
+12. Create one file for the component logic
 ```
 name.component.ts
 ```
 
-12. Inside use the following info:
+13. Inside use the following info:
 ```
 import { Component } from '@angular/core';
 
@@ -117,19 +119,19 @@ import { Component } from '@angular/core';
 })
 ```
 
-13. After that add it to the core component which is - app.component.html file
+14. After that add it to the core component which is - app.component.html file
 ```
 <app-name></app-name>
 ```
 
-14. Next add it to the app.component.ts file
+15. Next add it to the app.component.ts file
 ```
 import {NameComponent} from './name.component';
 ...
 imports:[NameComponent]
 ```
 
-15. To link styles for our component we create name.component.css and link it inside name.component.ts
+16. To link styles for our component we create name.component.css and link it inside name.component.ts
 ```
 styleUrl: './name.component.css'
 ```
